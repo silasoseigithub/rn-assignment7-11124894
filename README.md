@@ -23,9 +23,6 @@ Provide instructions on how to use your application:
 ```
 npm start
 ```
-
-Here is the revised version with improved structure and formatting:
-
 Open Fashion App
 The Open Fashion App fetches data from a Fakestore API and presents it on the UI. You can add products to your cart, remove products from the cart, view the total amount in the cart, see details of each product, and navigate through different screens.
 
@@ -34,19 +31,11 @@ The Open Fashion App is a clone of a shopping app, providing a seamless shopping
 
 Installation
 Clone the repository:
-
-sh
-Copy code
 git clone https://github.com/silasoseigithub/rn-assignment7-11124894
-Navigate to the project directory:
 
-sh
-Copy code
+Navigate to the project directory:
 cd rn-assignment7-11124894
 Install dependencies:
-
-sh
-Copy code
 npm install
 
 Usage
